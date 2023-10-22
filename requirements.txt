@@ -5,3 +5,9 @@ matplotlib==3.5.3
 astropy==5.2.2
 numpy==1.23.5
 scipy==1.10.0
+openai 
+langchain 
+faiss-cpu 
+PyPDF2 
+tiktoken
+PdfFileReader
